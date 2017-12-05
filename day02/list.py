@@ -18,4 +18,5 @@ while True:
         exit()
     else:
         print("你输入的不是数字")
+        print("你输入的不是数字")
 
