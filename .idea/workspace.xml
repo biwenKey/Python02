@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a66881d9-6509-42ad-8982-4c805c6f7628" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/day02/test.py" afterPath="$PROJECT_DIR$/day02/password.py" />
-    </list>
+    <list default="true" id="a66881d9-6509-42ad-8982-4c805c6f7628" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
