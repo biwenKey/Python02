@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a66881d9-6509-42ad-8982-4c805c6f7628" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/a3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/a4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/a5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/a6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/join.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/ljust.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python_study.iml" afterPath="$PROJECT_DIR$/.idea/Python_study.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day02/a2.py" afterPath="$PROJECT_DIR$/day02/a2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -352,6 +343,14 @@
       <option name="presentableId" value="Default" />
       <updated>1512816172285</updated>
     </task>
+    <task id="LOCAL-00001" summary="ss">
+      <created>1513415665428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513415665428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -383,6 +382,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
