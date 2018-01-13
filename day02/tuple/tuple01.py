@@ -1,0 +1,8 @@
+name_tuple = ("alex",'eric')
+print(name_tuple)
+print(name_tuple[0])
+print(name_tuple[1])
+print(len(name_tuple))
+print(name_tuple[len(name_tuple)-1])
+print(name_tuple[0:2])
+print(name_tuple[0:1])
