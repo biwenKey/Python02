@@ -6,7 +6,9 @@ i = 0
 #print(name_tuple[2])
 while i < len(name_tuple):
     t = name_tuple[i]
-    if i == 1:
+    if i == 2:
         continue
     print(t)
     i=i+1
+
+print(name_tuple)
