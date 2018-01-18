@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a66881d9-6509-42ad-8982-4c805c6f7628" name="Default" comment="ss搜索">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/dict/define_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/dict/keys.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/tuple/count.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day02/tuple/for_tupe.py" />
+    <list default="true" id="a66881d9-6509-42ad-8982-4c805c6f7628" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -225,12 +221,6 @@
             <path>
               <item name="Python_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_study01" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
-              <item name="dict" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_study01" type="462c0819:PsiDirectoryNode" />
               <item name="day03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -398,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515831939733</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ss搜索">
+      <created>1516270053416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1516270053416</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -434,7 +431,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ss" />
-    <option name="LAST_COMMIT_MESSAGE" value="ss" />
+    <MESSAGE value="ss搜索" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss搜索" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
