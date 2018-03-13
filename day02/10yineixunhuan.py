@@ -6,3 +6,13 @@ while start <= 10:
         continue
     print(start)
     start += 1
+
+
+
+
+
+
+
+
+
+
