@@ -11,3 +11,4 @@ for i in s:
     if i  == "l":
         break
     print(i)
+
