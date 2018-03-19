@@ -3,3 +3,15 @@
 
 name = "alex" if 1 == 1 else  "eric"
 print(name)
+
+
+n1 = int(123)
+print(type(n1))
+print(n1)
+
+temp = "alex"
+#temp.upper()
+#help(type(temp))
+b = dir(temp)
+print(b)
+
